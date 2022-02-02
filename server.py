@@ -1,6 +1,5 @@
 # Serve app on a local port via waitress
-from waitress import serve
-import app
+
 from waitress import serve
 import app
 
